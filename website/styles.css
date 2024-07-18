@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+}
+video {
+    border: 1px solid black;
+}
+#ar-container {
+    width: 100%;
+    height: 500px;
+}
